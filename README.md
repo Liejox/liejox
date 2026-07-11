@@ -85,14 +85,14 @@ Production-ready Full Stack Insurance CRM built to centralize customer managemen
 
 **✨ Key Features:**
 
-- 🔐 **JWT Authentication** + Role-Based Access Control
-- 👥 **Customer Management** with complete history tracking
-- 🚘 **Vehicle Management** with registration details & ownership tracking
-- 🛡️ **Smart Policy Management** with renewal automation
-- ⏰ **Intelligent Renewal Tracking** with follow-up workflows
-- 📄 **Document Management** with secure cloud storage
-- 📊 **Analytics Dashboard** with real-time insights & interactive charts
-- 📝 **Activity Logs** for complete transparency
+ 🔐 **JWT Authentication** + Role-Based Access Control
+ 👥 **Customer Management** with complete history tracking
+ 🚘 **Vehicle Management** with registration details & ownership tracking
+ 🛡️ **Smart Policy Management** with renewal automation
+ ⏰ **Intelligent Renewal Tracking** with follow-up workflows
+ 📄 **Document Management** with secure cloud storage
+ 📊 **Analytics Dashboard** with real-time insights & interactive charts
+ 📝 **Activity Logs** for complete transparency
 
 </div>
 
@@ -197,23 +197,6 @@ Production-ready Full Stack Insurance CRM built to centralize customer managemen
 
 ---
 
-## 📊 **GitHub Analytics & Stats**
-
-<div align="center">
-
-<!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liejox&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&text_color=e0e0e0&icon_color=00d4ff&border_radius=16&custom_title=📈%20Liejo's%20Contribution%20Graph)
-
-<!-- Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Liejox&theme=tokyonight&hide_border=true&background=0a0a0f&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&border_radius=16)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liejox&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&text_color=e0e0e0&layout=compact&border_radius=16&custom_title=🔥%20Top%20Languages)
-
-</div>
-
----
-
 ## 🏆 **Achievements & Recognition**
 
 <div align="center">
@@ -256,7 +239,7 @@ CGPA: 7.4/10 • Aug 2023 - May 2026
 
 🎯 **Seeking:** Full Stack Developer • MERN Stack • Software Engineer roles
 
-📍 **Location:** Tiruppur, Tamil Nadu, India
+📍 **Location:** Coimbatore, Tamil Nadu, India
 
 💼 **Open to:** Internships • Fresher Programs • Entry-level opportunities
 
@@ -283,9 +266,8 @@ CGPA: 7.4/10 • Aug 2023 - May 2026
 
 ### 📬 **Quick Links**
 
-- **Resume:** [Download PDF](mailto:liejosenthil@gmail.com?subject=Resume%20Request)
-- **Projects:** [GitHub Repositories](https://github.com/Liejox?tab=repositories)
-- **Let's collaborate!** [Send a message](mailto:liejosenthil@gmail.com)
+ **Projects:** [GitHub Repositories](https://github.com/Liejox?tab=repositories)
+ **Let's collaborate!** [Send a message](mailto:liejosenthil@gmail.com)
 
 </div>
 
