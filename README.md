@@ -1,187 +1,39 @@
-<!-- ════════════════════════════════════════════════════════════════
-       LIEJO S · FULL STACK + SHIPPER OF THINGS
-     ════════════════════════════════════════════════════════════════ -->
-
+<!-- Animated Background and Hero Section -->
 <div align="center">
 
-<!-- HERO BANNER -->
-<a href="https://github.com/Liejox">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:00b3ff&height=260&section=header&text=Liejo%20S&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20Future%20Loading&descSize=18&descAlignY=60&animation=fadeIn" alt="banner" />
-</a>
-
-<!-- ANIMATED TYPING -->
-<a href="https://github.com/Liejox">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=00B3FF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;Problem+Solver;Creating+scalable+web+experiences;Code.+Create.+Repeat." alt="typing" />
-</a>
-
-<br/>
-
-<!-- QUICK BADGES -->
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00B3FF&labelColor=0A0A0A" /></a>
-<a href="mailto:liejosenthil@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00B3FF&labelColor=0A0A0A" /></a>
-<a href="https://liejosportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00B3FF&labelColor=0A0A0A" /></a>
-
-</div>
-
-<br/>
-
-<!-- ─────────── DIVIDER ─────────── -->
-
-<!-- ══════════════ MAIN CHARACTER ENERGY ══════════════ -->
-<div align="center">
-
-### ⌁  MAIN CHARACTER ENERGY  ⌁
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/000000/rocket.png" width="40"/><br/>
-<sub><b>Building cool products</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/000000/design.png" width="40"/><br/>
-<sub><b>Crafting smooth UX</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/000000/learning.png" width="40"/><br/>
-<sub><b>Learn · ship · repeat</b></sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ══════════════ FEATURED PROJECTS ══════════════ -->
-<div align="center">
-
-### ✦  FEATURED PROJECTS  ✦
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🧪 GuessLab</h3>
-<p align="center"><i>Darkpool prediction market on Aptos with a commit–reveal mechanism for sealed-bid fairness.</i></p>
-<p align="center">
-<img src="https://img.shields.io/badge/Aptos-000?style=flat-square&logo=aptos&logoColor=00B3FF"/>
-<img src="https://img.shields.io/badge/Move-000?style=flat-square&logoColor=00B3FF"/>
-<img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=00B3FF"/>
-<img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=00B3FF"/>
-</p>
-<p align="center">
-<a href="https://guess-lab.vercel.app/"><img src="https://img.shields.io/badge/▶_Live_Demo-00B3FF?style=for-the-badge&logoColor=000&labelColor=00B3FF&color=0a0a0a"/></a>
-<a href="https://github.com/Liejox"><img src="https://img.shields.io/badge/⌥_Repository-0a0a0a?style=for-the-badge"/></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🌐 EventSphereX</h3>
-<p align="center"><i>An event discovery platform with clean filters, smooth transitions, and a modern editorial feel.</i></p>
-<p align="center">
-<img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=00B3FF"/>
-<img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=00B3FF"/>
-<img src="https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=00B3FF"/>
-</p>
-<p align="center">
-<a href="https://eventspherex.vercel.app/"><img src="https://img.shields.io/badge/▶_Live_Demo-00B3FF?style=for-the-badge&logoColor=000&labelColor=00B3FF&color=0a0a0a"/></a>
-<a href="https://github.com/Liejox"><img src="https://img.shields.io/badge/⌥_Repository-0a0a0a?style=for-the-badge"/></a>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🍽️ KMR Dining Experience</h3>
-<p align="center"><i>A modern restaurant web experience — soft motion, immersive imagery, instant menu browsing.</i></p>
-<p align="center">
-<img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=00B3FF"/>
-<img src="https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=00B3FF"/>
-</p>
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/▶_Live_Demo-00B3FF?style=for-the-badge&logoColor=000&labelColor=00B3FF&color=0a0a0a"/></a>
-<a href="https://github.com/Liejox"><img src="https://img.shields.io/badge/⌥_Repository-0a0a0a?style=for-the-badge"/></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🪐 Portfolio Website</h3>
-<p align="center"><i>Personal brand site — minimal, fast, expressive. Built to be a living showcase.</i></p>
-<p align="center">
-<img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=00B3FF"/>
-<img src="https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=00B3FF"/>
-<img src="https://img.shields.io/badge/Framer_Motion-000?style=flat-square&logo=framer&logoColor=00B3FF"/>
-</p>
-<p align="center">
-<a href="https://liejosportfolio.vercel.app/"><img src="https://img.shields.io/badge/▶_Live_Demo-00B3FF?style=for-the-badge&logoColor=000&labelColor=00B3FF&color=0a0a0a"/></a>
-<a href="https://github.com/Liejox"><img src="https://img.shields.io/badge/⌥_Repository-0a0a0a?style=for-the-badge"/></a>
-</p>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ══════════════ TECH STACK ══════════════ -->
-<div align="center">
-
-### ⚡  TECH STACK  ⚡
-
-<p><sub><b>FRONTEND</b></sub></p>
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,js" />
-
-<p><sub><b>BACKEND</b></sub></p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-<p><sub><b>DATABASE</b></sub></p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-<p><sub><b>BLOCKCHAIN</b></sub></p>
-<img src="https://skillicons.dev/icons?i=solidity" />
-<img src="https://img.shields.io/badge/Aptos-0a0a0a?style=for-the-badge&logo=aptos&logoColor=00B3FF" height="48"/>
-<img src="https://img.shields.io/badge/Move-0a0a0a?style=for-the-badge&logoColor=00B3FF" height="48"/>
-
-<p><sub><b>TOOLS</b></sub></p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-
-</div>
-
-<br/>
-
-<!-- ══════════════ CURRENT STATUS ══════════════ -->
-<div align="center">
-
-### ◐  CURRENT STATUS  ◑
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h4 align="center">⚙️ Now Building</h4>
-
-```yaml
-- Full Stack Applications
-- Blockchain Projects
-- Open Source Portfolio
+```
+   ██╗     ██╗███████╗██╗███████╗ ██████╗ 
+   ██║     ██║██╔════╝██║██╔════╝██╔═══██╗
+   ██║     ██║█████╗  ██║█████╗  ██║   ██║
+   ██║     ██║██╔══╝  ██║██╔══╝  ██║   ██║
+   ███████╗██║███████╗██║███████╗╚██████╔╝
+   ╚══════╝╚═╝╚══════╝╚═╝╚══════╝ ╚═════╝ 
 ```
 
-</td>
-<td width="50%" valign="top">
+# **Building Products, Not Just Projects**
 
-<h4 align="center">📡 Learning</h4>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=3000&pause=1000&color=00D4FF&center=true&width=600&lines=Full+Stack+Developer;Blockchain+Enthusiast;Creative+Problem+Solver;Shipping+Production+Grade+Code)
 
-```yaml
-- Advanced React Patterns
-- Backend Architecture
-- Web3 Development
-```
+</div>
+
+---
+
+<div align="center">
+
+<!-- Premium Glassmorphism About Card -->
+<table border="0" cellpadding="0" cellspacing="0" style="background: linear-gradient(135deg, rgba(10, 10, 15, 0.95) 0%, rgba(15, 23, 42, 0.95) 100%); backdrop-filter: blur(20px); border: 1px solid rgba(0, 212, 255, 0.25); border-radius: 20px; padding: 40px; margin: 30px auto; max-width: 750px; box-shadow: 0 8px 32px rgba(0, 212, 255, 0.15), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<tr>
+<td align="center" style="font-family: 'Courier New', monospace; color: #e0e0e0; line-height: 1.9;">
+
+<span style="font-size: 13px; letter-spacing: 2px; color: #00d4ff; text-transform: uppercase; font-weight: bold;">→ About Me</span>
+
+<p style="font-size: 16px; margin: 16px 0 12px 0; font-weight: 500;">Crafting <span style="color: #00d4ff;">production-grade full-stack solutions</span> that bridge Web2 and Web3.</p>
+
+<p style="font-size: 14px; color: #a0a0a0; margin: 12px 0;">Finalist in <span style="color: #7c3aed;">5+ hackathons</span> • <span style="color: #00d4ff;">State-level hackathon winner</span> • <span style="color: #06b6d4;">15+ tech events</span></p>
+
+<p style="font-size: 14px; margin: 12px 0; color: #b0b0b0;">Obsessed with clean code, exceptional UX, and solving real-world problems at scale.</p>
+
+<span style="display: inline-block; margin-top: 16px; font-size: 28px;">→ Always Learning • Always Shipping</span>
 
 </td>
 </tr>
@@ -189,14 +41,269 @@
 
 </div>
 
-<br/>
+---
 
+## 🎯 **Flagship Project**
 
-<!-- ══════════════ FOOTER ══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b3ff,50:0a0a0a,100:000000&height=140&section=footer&text=Code.%20Create.%20Repeat.&fontColor=ffffff&fontSize=22&fontAlignY=70&animation=fadeIn" />
+<!-- InsMotoVahan Hero Card with Video -->
+<table border="0" cellpadding="0" cellspacing="0" style="background: linear-gradient(135deg, rgba(0, 212, 255, 0.12) 0%, rgba(124, 58, 237, 0.12) 100%); backdrop-filter: blur(15px); border: 2px solid rgba(0, 212, 255, 0.4); border-radius: 16px; padding: 32px; margin: 20px auto; max-width: 800px; box-shadow: 0 20px 60px rgba(0, 212, 255, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.08);">
+<tr>
+<td align="center">
 
-<sub><b>⌁ Designed & engineered by Liejo S ⌁</b></sub>
+### 🚗 **InsMotoVahan**
+#### **Smart Insurance Management Platform**
+
+<p style="color: #a0a0a0; font-size: 14px; margin: 16px 0; line-height: 1.6;">
+Production-ready Full Stack Insurance CRM built to centralize customer management, vehicle tracking, policy renewals, document storage, and insurance operations through one <span style="color: #00d4ff;">modern AI-powered dashboard</span>.
+</p>
+
+<!-- Video/Demo Placeholder with Styling -->
+<div style="margin: 24px 0; border: 1px solid rgba(0, 212, 255, 0.3); border-radius: 12px; overflow: hidden; background: rgba(0, 0, 0, 0.3);">
+<a href="https://ins-moto-vahan.vercel.app" target="_blank" style="text-decoration: none;">
+<div style="padding: 60px 20px; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1), rgba(124, 58, 237, 0.1)); text-align: center;">
+<span style="font-size: 48px;">▶️</span>
+<p style="color: #00d4ff; font-size: 14px; margin: 12px 0 0 0; font-weight: bold;">Click to View Live Demo</p>
+<p style="color: #707070; font-size: 12px; margin: 4px 0 0 0;">https://ins-moto-vahan.vercel.app</p>
+</div>
+</a>
+</div>
+
+<!-- Tech Stack Badges -->
+<div style="display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; margin: 20px 0;">
+<span style="background: rgba(0, 212, 255, 0.2); color: #00d4ff; padding: 6px 14px; border-radius: 24px; font-size: 12px; border: 1px solid rgba(0, 212, 255, 0.4); font-weight: 500;">React 19</span>
+<span style="background: rgba(124, 58, 237, 0.2); color: #a78bfa; padding: 6px 14px; border-radius: 24px; font-size: 12px; border: 1px solid rgba(124, 58, 237, 0.4); font-weight: 500;">TypeScript</span>
+<span style="background: rgba(236, 72, 153, 0.2); color: #f472b6; padding: 6px 14px; border-radius: 24px; font-size: 12px; border: 1px solid rgba(236, 72, 153, 0.4); font-weight: 500;">Node.js</span>
+<span style="background: rgba(59, 130, 246, 0.2); color: #60a5fa; padding: 6px 14px; border-radius: 24px; font-size: 12px; border: 1px solid rgba(59, 130, 246, 0.4); font-weight: 500;">PostgreSQL</span>
+<span style="background: rgba(34, 197, 94, 0.2); color: #86efac; padding: 6px 14px; border-radius: 24px; font-size: 12px; border: 1px solid rgba(34, 197, 94, 0.4); font-weight: 500;">Prisma</span>
+<span style="background: rgba(249, 115, 22, 0.2); color: #fb923c; padding: 6px 14px; border-radius: 24px; font-size: 12px; border: 1px solid rgba(249, 115, 22, 0.4); font-weight: 500;">Vite</span>
+</div>
+
+<!-- Key Features -->
+<div style="text-align: left; margin: 24px 0; padding: 20px; background: rgba(0, 0, 0, 0.2); border-radius: 12px; border-left: 3px solid #00d4ff;">
+
+**✨ Key Features:**
+
+- 🔐 **JWT Authentication** + Role-Based Access Control
+- 👥 **Customer Management** with complete history tracking
+- 🚘 **Vehicle Management** with registration details & ownership tracking
+- 🛡️ **Smart Policy Management** with renewal automation
+- ⏰ **Intelligent Renewal Tracking** with follow-up workflows
+- 📄 **Document Management** with secure cloud storage
+- 📊 **Analytics Dashboard** with real-time insights & interactive charts
+- 📝 **Activity Logs** for complete transparency
+
+</div>
+
+<!-- CTA Buttons -->
+<div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin: 20px 0;">
+<a href="https://ins-moto-vahan.vercel.app" target="_blank" style="background: linear-gradient(135deg, #00d4ff, #0099cc); color: #000; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 13px; transition: all 0.3s; box-shadow: 0 8px 20px rgba(0, 212, 255, 0.3);">🌐 Visit Live Demo</a>
+<a href="https://github.com/Liejox/InsMotoVahan" target="_blank" style="background: rgba(124, 58, 237, 0.25); color: #a78bfa; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 13px; border: 1px solid rgba(124, 58, 237, 0.4); transition: all 0.3s;">📦 View Repository</a>
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎨 **Other Featured Projects**
+
+<div align="center">
+
+<!-- Project Card 1: EventSphere -->
+<table border="0" cellpadding="0" cellspacing="0" style="background: linear-gradient(135deg, rgba(0, 212, 255, 0.1), rgba(6, 182, 212, 0.1)); backdrop-filter: blur(15px); border: 1px solid rgba(0, 212, 255, 0.35); border-radius: 14px; padding: 28px; margin: 15px auto; max-width: 700px; box-shadow: 0 8px 32px rgba(0, 212, 255, 0.12);">
+<tr>
+<td>
+<h3 style="margin: 0 0 8px 0; color: #00d4ff; font-family: 'Courier New', monospace; font-size: 18px;">→ EventSphere</h3>
+<p style="margin: 0 0 14px 0; color: #b0b0b0; font-size: 13px; line-height: 1.6;">Full-stack event ticketing platform with multi-role dashboards, real-time booking, QR code generation, and advanced analytics.</p>
+
+<div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 16px;">
+<span style="background: rgba(0, 212, 255, 0.2); color: #00d4ff; padding: 4px 11px; border-radius: 18px; font-size: 11px; border: 1px solid rgba(0, 212, 255, 0.35);">React</span>
+<span style="background: rgba(124, 58, 237, 0.2); color: #a78bfa; padding: 4px 11px; border-radius: 18px; font-size: 11px; border: 1px solid rgba(124, 58, 237, 0.35);">Node.js</span>
+<span style="background: rgba(236, 72, 153, 0.2); color: #f472b6; padding: 4px 11px; border-radius: 18px; font-size: 11px; border: 1px solid rgba(236, 72, 153, 0.35);">MySQL</span>
+<span style="background: rgba(34, 197, 94, 0.2); color: #86efac; padding: 4px 11px; border-radius: 18px; font-size: 11px; border: 1px solid rgba(34, 197, 94, 0.35);">QR Codes</span>
+</div>
+
+<div style="display: flex; gap: 10px; justify-content: flex-start; flex-wrap: wrap;">
+<a href="#" style="background: rgba(0, 212, 255, 0.15); color: #00d4ff; padding: 7px 14px; border-radius: 6px; text-decoration: none; font-size: 12px; border: 1px solid rgba(0, 212, 255, 0.3); transition: all 0.3s;">Repo</a>
+</div>
+</td>
+</tr>
+</table>
+
+<!-- Project Card 2: GuessLab -->
+<table border="0" cellpadding="0" cellspacing="0" style="background: linear-gradient(135deg, rgba(124, 58, 237, 0.1), rgba(236, 72, 153, 0.1)); backdrop-filter: blur(15px); border: 1px solid rgba(124, 58, 237, 0.35); border-radius: 14px; padding: 28px; margin: 15px auto; max-width: 700px; box-shadow: 0 8px 32px rgba(124, 58, 237, 0.12);">
+<tr>
+<td>
+<h3 style="margin: 0 0 8px 0; color: #a78bfa; font-family: 'Courier New', monospace; font-size: 18px;">→ GuessLab</h3>
+<p style="margin: 0 0 14px 0; color: #b0b0b0; font-size: 13px; line-height: 1.6;">Blockchain-based prediction market on Aptos. Secure commit-reveal system with SHA-256 hashing and Pyth Oracle real-time price integration.</p>
+
+<div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 16px;">
+<span style="background: rgba(124, 58, 237, 0.2); color: #a78bfa; padding: 4px 11px; border-radius: 18px; font-size: 11px; border: 1px solid rgba(124, 58, 237, 0.35);">Move</span>
+<span style="background: rgba(0, 212, 255, 0.2); color: #00d4ff; padding: 4px 11px; border-radius: 18px; font-size: 11px; border: 1px solid rgba(0, 212, 255, 0.35);">Aptos</span>
+<span style="background: rgba(236, 72, 153, 0.2); color: #f472b6; padding: 4px 11px; border-radius: 18px; font-size: 11px; border: 1px solid rgba(236, 72, 153, 0.35);">Pyth Oracle</span>
+<span style="background: rgba(34, 197, 94, 0.2); color: #86efac; padding: 4px 11px; border-radius: 18px; font-size: 11px; border: 1px solid rgba(34, 197, 94, 0.35);">Crypto</span>
+</div>
+
+<div style="display: flex; gap: 10px; justify-content: flex-start; flex-wrap: wrap;">
+<a href="#" style="background: rgba(124, 58, 237, 0.15); color: #a78bfa; padding: 7px 14px; border-radius: 6px; text-decoration: none; font-size: 12px; border: 1px solid rgba(124, 58, 237, 0.3); transition: all 0.3s;">Repo</a>
+</div>
+</td>
+</tr>
+</table>
+
+<!-- Project Card 3: KMR Dining -->
+<table border="0" cellpadding="0" cellspacing="0" style="background: linear-gradient(135deg, rgba(34, 197, 94, 0.1), rgba(59, 130, 246, 0.1)); backdrop-filter: blur(15px); border: 1px solid rgba(34, 197, 94, 0.35); border-radius: 14px; padding: 28px; margin: 15px auto; max-width: 700px; box-shadow: 0 8px 32px rgba(34, 197, 94, 0.12);">
+<tr>
+<td>
+<h3 style="margin: 0 0 8px 0; color: #86efac; font-family: 'Courier New', monospace; font-size: 18px;">→ KMR Dining</h3>
+<p style="margin: 0 0 14px 0; color: #b0b0b0; font-size: 13px; line-height: 1.6;">Restaurant management system with inventory tracking, order processing, vendor management, and comprehensive analytics dashboard.</p>
+
+<div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 16px;">
+<span style="background: rgba(59, 130, 246, 0.2); color: #60a5fa; padding: 4px 11px; border-radius: 18px; font-size: 11px; border: 1px solid rgba(59, 130, 246, 0.35);">React</span>
+<span style="background: rgba(34, 197, 94, 0.2); color: #86efac; padding: 4px 11px; border-radius: 18px; font-size: 11px; border: 1px solid rgba(34, 197, 94, 0.35);">Express</span>
+<span style="background: rgba(236, 72, 153, 0.2); color: #f472b6; padding: 4px 11px; border-radius: 18px; font-size: 11px; border: 1px solid rgba(236, 72, 153, 0.35);">MongoDB</span>
+</div>
+
+<div style="display: flex; gap: 10px; justify-content: flex-start; flex-wrap: wrap;">
+<a href="#" style="background: rgba(34, 197, 94, 0.15); color: #86efac; padding: 7px 14px; border-radius: 6px; text-decoration: none; font-size: 12px; border: 1px solid rgba(34, 197, 94, 0.3); transition: all 0.3s;">Repo</a>
+</div>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## ⚡ **Tech Stack & Arsenal**
+
+<div align="center">
+
+| **Category** | **Technologies** |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React_19-61dafb?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005c84?style=flat-square&logo=mysql&logoColor=white) |
+| **Blockchain** | ![Aptos](https://img.shields.io/badge/Aptos-000000?style=flat-square&logo=aptos&logoColor=white) ![Move](https://img.shields.io/badge/Move-3b82f6?style=flat-square&logoColor=white) |
+| **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
+</div>
+
+---
+
+## 📊 **GitHub Analytics & Stats**
+
+<div align="center">
+
+<!-- GitHub Stats Card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liejox&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&text_color=e0e0e0&icon_color=00d4ff&border_radius=16&custom_title=📈%20Liejo's%20Contribution%20Graph)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Liejox&theme=tokyonight&hide_border=true&background=0a0a0f&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&border_radius=16)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liejox&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&text_color=e0e0e0&layout=compact&border_radius=16&custom_title=🔥%20Top%20Languages)
+
+</div>
+
+---
+
+## 🏆 **Achievements & Recognition**
+
+<div align="center">
+
+| **Achievement** | **Details** |
+|---|---|
+| 🥇 **Hackathon Champion** | State-level winner • Finalist in 5+ competitions |
+| 🔐 **Cyber Security** | IBM SkillsBuild • Grade A+ Certified |
+| 🗄️ **Database Expertise** | Oracle Certified • Advanced SQL & Optimization |
+| 🤖 **GenAI Innovation** | Quantium Virtual Internship • Production Implementation |
+| 📱 **Tech Community** | Core Member, TechHub Committee • 15+ events organized |
+
+</div>
+
+---
+
+## 🎓 **Education**
+
+<div align="center">
+
+```
+B.Sc. in Computer Technology
+Specialization: Blockchain & Distributed Computing
+
+Rathinam College of Arts & Science, Coimbatore
+CGPA: 7.4/10 • Aug 2023 - May 2026
+```
+
+</div>
+
+---
+
+## 🌍 **Currently**
+
+<div align="center">
+
+<table border="0" cellpadding="0" cellspacing="0" style="background: linear-gradient(135deg, rgba(0, 212, 255, 0.08), rgba(124, 58, 237, 0.08)); backdrop-filter: blur(15px); border: 1px solid rgba(0, 212, 255, 0.2); border-radius: 12px; padding: 24px; margin: 20px auto; max-width: 600px;">
+<tr>
+<td align="center">
+
+🎯 **Seeking:** Full Stack Developer • MERN Stack • Software Engineer roles
+
+📍 **Location:** Tiruppur, Tamil Nadu, India
+
+💼 **Open to:** Internships • Fresher Programs • Entry-level opportunities
+
+🚀 **Targets:** Infosys • TCS • Accenture • Zoho • Deloitte • ADP • Motorola • Startups
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💬 **Connect With Me**
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-liejosenthil@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:liejosenthil@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Liejo-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/liejos/)
+[![GitHub](https://img.shields.io/badge/GitHub-Liejox-181717?style=for-the-badge&logo=github)](https://github.com/Liejox)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d4ff?style=for-the-badge&logo=vercel)](https://liejosportfolio.vercel.app)
+
+<br/>
+
+### 📬 **Quick Links**
+
+- **Resume:** [Download PDF](mailto:liejosenthil@gmail.com?subject=Resume%20Request)
+- **Projects:** [GitHub Repositories](https://github.com/Liejox?tab=repositories)
+- **Let's collaborate!** [Send a message](mailto:liejosenthil@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+"Ship it fast. Iterate always. Build products that matter."
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=Liejox&style=flat-square&color=00d4ff&label=Profile+Views)
+
+---
+
+<p style="font-size: 12px; color: #707070;">
+⭐ If my work inspires you, consider giving it a star! <br/>
+Made with <span style="color: #ff6b6b;">❤️</span> by Liejo S
+</p>
 
 </div>
