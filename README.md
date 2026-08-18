@@ -37,22 +37,6 @@
 <span style="background: rgba(249, 115, 22, 0.2); color: #fb923c; padding: 6px 14px; border-radius: 24px; font-size: 12px; border: 1px solid rgba(249, 115, 22, 0.4); font-weight: 500;">Vite</span>
 </div>
 
-<!-- Key Features -->
-<div style="text-align: left; margin: 24px 0; padding: 20px; background: rgba(0, 0, 0, 0.2); border-radius: 12px; border-left: 3px solid #00d4ff;">
-
-**✨ Key Features:**
-
- 🔐 **JWT Authentication** + Role-Based Access Control
- 👥 **Customer Management** with complete history tracking
- 🚘 **Vehicle Management** with registration details & ownership tracking
- 🛡️ **Smart Policy Management** with renewal automation
- ⏰ **Intelligent Renewal Tracking** with follow-up workflows
- 📄 **Document Management** with secure cloud storage
- 📊 **Analytics Dashboard** with real-time insights & interactive charts
- 📝 **Activity Logs** for complete transparency
-
-</div>
-
 <!-- CTA Buttons -->
 <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin: 20px 0;">
 <a href="https://ins-moto-vahan.vercel.app" target="_blank" style="background: linear-gradient(135deg, #00d4ff, #0099cc); color: #000; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 13px; transition: all 0.3s; box-shadow: 0 8px 20px rgba(0, 212, 255, 0.3);">🌐 Visit Live Demo</a>
