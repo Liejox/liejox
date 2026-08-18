@@ -18,15 +18,6 @@
 
 ---
 
-<div align="center">
-
-<!-- Premium Glassmorphism About Card -->
-<table border="0" cellpadding="0" cellspacing="0" style="background: linear-gradient(135deg, rgba(10, 10, 15, 0.95) 0%, rgba(15, 23, 42, 0.95) 100%); backdrop-filter: blur(20px); border: 1px solid rgba(0, 212, 255, 0.25); border-radius: 20px; padding: 40px; margin: 30px auto; max-width: 750px; box-shadow: 0 8px 32px rgba(0, 212, 255, 0.15), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
-<tr>
-<td align="center" style="font-family: 'Courier New', monospace; color: #e0e0e0; line-height: 1.9;">
-
----
-
 ## ⚡ **Tech Stack & Arsenal**
 
 <div align="center">
