@@ -31,7 +31,7 @@
 
 </div>
 
----
+
 
 ## 🏆 **Achievements & Recognition**
 
@@ -47,7 +47,7 @@
 
 </div>
 
----
+
 
 ## 🎓 **Education**
 
@@ -63,7 +63,7 @@ CGPA: 7.9/10 • Aug 2023 - May 2026
 
 </div>
 
----
+
 
 ## 🌍 **Currently**
 
@@ -87,7 +87,7 @@ CGPA: 7.9/10 • Aug 2023 - May 2026
 
 </div>
 
----
+
 
 ## 💬 **Connect With Me**
 
@@ -107,7 +107,7 @@ CGPA: 7.9/10 • Aug 2023 - May 2026
 
 </div>
 
----
+
 
 <div align="center">
 
