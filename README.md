@@ -25,24 +25,7 @@
 <tr>
 <td align="center" style="font-family: 'Courier New', monospace; color: #e0e0e0; line-height: 1.9;">
 
-<span style="font-size: 13px; letter-spacing: 2px; color: #00d4ff; text-transform: uppercase; font-weight: bold;">→ About Me</span>
-
-<p style="font-size: 16px; margin: 16px 0 12px 0; font-weight: 500;">Crafting <span style="color: #00d4ff;">production-grade full-stack solutions</span> that bridge Web2 and Web3.</p>
-
-<p style="font-size: 14px; color: #a0a0a0; margin: 12px 0;">Finalist in <span style="color: #7c3aed;">5+ hackathons</span> • <span style="color: #00d4ff;">State-level hackathon winner</span> • <span style="color: #06b6d4;">15+ tech events</span></p>
-
-<p style="font-size: 14px; margin: 12px 0; color: #b0b0b0;">Obsessed with clean code, exceptional UX, and solving real-world problems at scale.</p>
-
-<span style="display: inline-block; margin-top: 16px; font-size: 28px;">→ Always Learning • Always Shipping</span>
-
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
-
 
 <!-- Tech Stack Badges -->
 <div style="display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; margin: 20px 0;">
