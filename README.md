@@ -43,32 +43,6 @@
 
 ---
 
-## 🎯 **Flagship Project**
-
-<div align="center">
-
-<!-- InsMotoVahan Hero Card with Video -->
-<table border="0" cellpadding="0" cellspacing="0" style="background: linear-gradient(135deg, rgba(0, 212, 255, 0.12) 0%, rgba(124, 58, 237, 0.12) 100%); backdrop-filter: blur(15px); border: 2px solid rgba(0, 212, 255, 0.4); border-radius: 16px; padding: 32px; margin: 20px auto; max-width: 800px; box-shadow: 0 20px 60px rgba(0, 212, 255, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.08);">
-<tr>
-<td align="center">
-
-### 🚗 **InsMotoVahan**
-#### **Smart Insurance Management Platform**
-
-<p style="color: #a0a0a0; font-size: 14px; margin: 16px 0; line-height: 1.6;">
-Production-ready Full Stack Insurance CRM built to centralize customer management, vehicle tracking, policy renewals, document storage, and insurance operations through one <span style="color: #00d4ff;">modern AI-powered dashboard</span>.
-</p>
-
-<!-- Video/Demo Placeholder with Styling -->
-<div style="margin: 24px 0; border: 1px solid rgba(0, 212, 255, 0.3); border-radius: 12px; overflow: hidden; background: rgba(0, 0, 0, 0.3);">
-<a href="https://ins-moto-vahan.vercel.app" target="_blank" style="text-decoration: none;">
-<div style="padding: 60px 20px; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1), rgba(124, 58, 237, 0.1)); text-align: center;">
-<span style="font-size: 48px;">▶️</span>
-<p style="color: #00d4ff; font-size: 14px; margin: 12px 0 0 0; font-weight: bold;">Click to View Live Demo</p>
-<p style="color: #707070; font-size: 12px; margin: 4px 0 0 0;">https://ins-moto-vahan.vercel.app</p>
-</div>
-</a>
-</div>
 
 <!-- Tech Stack Badges -->
 <div style="display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; margin: 20px 0;">
@@ -102,76 +76,6 @@ Production-ready Full Stack Insurance CRM built to centralize customer managemen
 <a href="https://github.com/Liejox/InsMotoVahan" target="_blank" style="background: rgba(124, 58, 237, 0.25); color: #a78bfa; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 13px; border: 1px solid rgba(124, 58, 237, 0.4); transition: all 0.3s;">📦 View Repository</a>
 </div>
 
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🎨 **Other Featured Projects**
-
-<div align="center">
-
-<!-- Project Card 1: EventSphere -->
-<table border="0" cellpadding="0" cellspacing="0" style="background: linear-gradient(135deg, rgba(0, 212, 255, 0.1), rgba(6, 182, 212, 0.1)); backdrop-filter: blur(15px); border: 1px solid rgba(0, 212, 255, 0.35); border-radius: 14px; padding: 28px; margin: 15px auto; max-width: 700px; box-shadow: 0 8px 32px rgba(0, 212, 255, 0.12);">
-<tr>
-<td>
-<h3 style="margin: 0 0 8px 0; color: #00d4ff; font-family: 'Courier New', monospace; font-size: 18px;">→ EventSphere</h3>
-<p style="margin: 0 0 14px 0; color: #b0b0b0; font-size: 13px; line-height: 1.6;">Full-stack event ticketing platform with multi-role dashboards, real-time booking, QR code generation, and advanced analytics.</p>
-
-<div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 16px;">
-<span style="background: rgba(0, 212, 255, 0.2); color: #00d4ff; padding: 4px 11px; border-radius: 18px; font-size: 11px; border: 1px solid rgba(0, 212, 255, 0.35);">React</span>
-<span style="background: rgba(124, 58, 237, 0.2); color: #a78bfa; padding: 4px 11px; border-radius: 18px; font-size: 11px; border: 1px solid rgba(124, 58, 237, 0.35);">Node.js</span>
-<span style="background: rgba(236, 72, 153, 0.2); color: #f472b6; padding: 4px 11px; border-radius: 18px; font-size: 11px; border: 1px solid rgba(236, 72, 153, 0.35);">MySQL</span>
-<span style="background: rgba(34, 197, 94, 0.2); color: #86efac; padding: 4px 11px; border-radius: 18px; font-size: 11px; border: 1px solid rgba(34, 197, 94, 0.35);">QR Codes</span>
-</div>
-
-<div style="display: flex; gap: 10px; justify-content: flex-start; flex-wrap: wrap;">
-<a href="#" style="background: rgba(0, 212, 255, 0.15); color: #00d4ff; padding: 7px 14px; border-radius: 6px; text-decoration: none; font-size: 12px; border: 1px solid rgba(0, 212, 255, 0.3); transition: all 0.3s;">Repo</a>
-</div>
-</td>
-</tr>
-</table>
-
-<!-- Project Card 2: GuessLab -->
-<table border="0" cellpadding="0" cellspacing="0" style="background: linear-gradient(135deg, rgba(124, 58, 237, 0.1), rgba(236, 72, 153, 0.1)); backdrop-filter: blur(15px); border: 1px solid rgba(124, 58, 237, 0.35); border-radius: 14px; padding: 28px; margin: 15px auto; max-width: 700px; box-shadow: 0 8px 32px rgba(124, 58, 237, 0.12);">
-<tr>
-<td>
-<h3 style="margin: 0 0 8px 0; color: #a78bfa; font-family: 'Courier New', monospace; font-size: 18px;">→ GuessLab</h3>
-<p style="margin: 0 0 14px 0; color: #b0b0b0; font-size: 13px; line-height: 1.6;">Blockchain-based prediction market on Aptos. Secure commit-reveal system with SHA-256 hashing and Pyth Oracle real-time price integration.</p>
-
-<div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 16px;">
-<span style="background: rgba(124, 58, 237, 0.2); color: #a78bfa; padding: 4px 11px; border-radius: 18px; font-size: 11px; border: 1px solid rgba(124, 58, 237, 0.35);">Move</span>
-<span style="background: rgba(0, 212, 255, 0.2); color: #00d4ff; padding: 4px 11px; border-radius: 18px; font-size: 11px; border: 1px solid rgba(0, 212, 255, 0.35);">Aptos</span>
-<span style="background: rgba(236, 72, 153, 0.2); color: #f472b6; padding: 4px 11px; border-radius: 18px; font-size: 11px; border: 1px solid rgba(236, 72, 153, 0.35);">Pyth Oracle</span>
-<span style="background: rgba(34, 197, 94, 0.2); color: #86efac; padding: 4px 11px; border-radius: 18px; font-size: 11px; border: 1px solid rgba(34, 197, 94, 0.35);">Crypto</span>
-</div>
-
-<div style="display: flex; gap: 10px; justify-content: flex-start; flex-wrap: wrap;">
-<a href="#" style="background: rgba(124, 58, 237, 0.15); color: #a78bfa; padding: 7px 14px; border-radius: 6px; text-decoration: none; font-size: 12px; border: 1px solid rgba(124, 58, 237, 0.3); transition: all 0.3s;">Repo</a>
-</div>
-</td>
-</tr>
-</table>
-
-<!-- Project Card 3: KMR Dining -->
-<table border="0" cellpadding="0" cellspacing="0" style="background: linear-gradient(135deg, rgba(34, 197, 94, 0.1), rgba(59, 130, 246, 0.1)); backdrop-filter: blur(15px); border: 1px solid rgba(34, 197, 94, 0.35); border-radius: 14px; padding: 28px; margin: 15px auto; max-width: 700px; box-shadow: 0 8px 32px rgba(34, 197, 94, 0.12);">
-<tr>
-<td>
-<h3 style="margin: 0 0 8px 0; color: #86efac; font-family: 'Courier New', monospace; font-size: 18px;">→ KMR Dining</h3>
-<p style="margin: 0 0 14px 0; color: #b0b0b0; font-size: 13px; line-height: 1.6;">Restaurant management system with inventory tracking, order processing, vendor management, and comprehensive analytics dashboard.</p>
-
-<div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 16px;">
-<span style="background: rgba(59, 130, 246, 0.2); color: #60a5fa; padding: 4px 11px; border-radius: 18px; font-size: 11px; border: 1px solid rgba(59, 130, 246, 0.35);">React</span>
-<span style="background: rgba(34, 197, 94, 0.2); color: #86efac; padding: 4px 11px; border-radius: 18px; font-size: 11px; border: 1px solid rgba(34, 197, 94, 0.35);">Express</span>
-<span style="background: rgba(236, 72, 153, 0.2); color: #f472b6; padding: 4px 11px; border-radius: 18px; font-size: 11px; border: 1px solid rgba(236, 72, 153, 0.35);">MongoDB</span>
-</div>
-
-<div style="display: flex; gap: 10px; justify-content: flex-start; flex-wrap: wrap;">
-<a href="#" style="background: rgba(34, 197, 94, 0.15); color: #86efac; padding: 7px 14px; border-radius: 6px; text-decoration: none; font-size: 12px; border: 1px solid rgba(34, 197, 94, 0.3); transition: all 0.3s;">Repo</a>
-</div>
 </td>
 </tr>
 </table>
@@ -222,7 +126,7 @@ B.Sc. in Computer Technology
 Specialization: Blockchain & Distributed Computing
 
 Rathinam College of Arts & Science, Coimbatore
-CGPA: 7.4/10 • Aug 2023 - May 2026
+CGPA: 7.9/10 • Aug 2023 - May 2026
 ```
 
 </div>
