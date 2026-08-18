@@ -108,20 +108,9 @@ CGPA: 7.9/10 • Aug 2023 - May 2026
 </div>
 
 
-
 <div align="center">
 
 ```
 "Ship it fast. Iterate always. Build products that matter."
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=Liejox&style=flat-square&color=00d4ff&label=Profile+Views)
-
----
-
-<p style="font-size: 12px; color: #707070;">
-⭐ If my work inspires you, consider giving it a star! <br/>
-Made with <span style="color: #ff6b6b;">❤️</span> by Liejo S
-</p>
 
 </div>
