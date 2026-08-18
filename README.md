@@ -27,30 +27,6 @@
 
 ---
 
-<!-- Tech Stack Badges -->
-<div style="display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; margin: 20px 0;">
-<span style="background: rgba(0, 212, 255, 0.2); color: #00d4ff; padding: 6px 14px; border-radius: 24px; font-size: 12px; border: 1px solid rgba(0, 212, 255, 0.4); font-weight: 500;">React 19</span>
-<span style="background: rgba(124, 58, 237, 0.2); color: #a78bfa; padding: 6px 14px; border-radius: 24px; font-size: 12px; border: 1px solid rgba(124, 58, 237, 0.4); font-weight: 500;">TypeScript</span>
-<span style="background: rgba(236, 72, 153, 0.2); color: #f472b6; padding: 6px 14px; border-radius: 24px; font-size: 12px; border: 1px solid rgba(236, 72, 153, 0.4); font-weight: 500;">Node.js</span>
-<span style="background: rgba(59, 130, 246, 0.2); color: #60a5fa; padding: 6px 14px; border-radius: 24px; font-size: 12px; border: 1px solid rgba(59, 130, 246, 0.4); font-weight: 500;">PostgreSQL</span>
-<span style="background: rgba(34, 197, 94, 0.2); color: #86efac; padding: 6px 14px; border-radius: 24px; font-size: 12px; border: 1px solid rgba(34, 197, 94, 0.4); font-weight: 500;">Prisma</span>
-<span style="background: rgba(249, 115, 22, 0.2); color: #fb923c; padding: 6px 14px; border-radius: 24px; font-size: 12px; border: 1px solid rgba(249, 115, 22, 0.4); font-weight: 500;">Vite</span>
-</div>
-
-<!-- CTA Buttons -->
-<div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin: 20px 0;">
-<a href="https://ins-moto-vahan.vercel.app" target="_blank" style="background: linear-gradient(135deg, #00d4ff, #0099cc); color: #000; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 13px; transition: all 0.3s; box-shadow: 0 8px 20px rgba(0, 212, 255, 0.3);">🌐 Visit Live Demo</a>
-<a href="https://github.com/Liejox/InsMotoVahan" target="_blank" style="background: rgba(124, 58, 237, 0.25); color: #a78bfa; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 13px; border: 1px solid rgba(124, 58, 237, 0.4); transition: all 0.3s;">📦 View Repository</a>
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## ⚡ **Tech Stack & Arsenal**
 
 <div align="center">
