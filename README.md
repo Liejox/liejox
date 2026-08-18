@@ -16,8 +16,6 @@
 
 </div>
 
----
-
 ## ⚡ **Tech Stack & Arsenal**
 
 <div align="center">
