@@ -111,4 +111,4 @@ CGPA: 7.9/10 • Aug 2023 - May 2026
 <div align="center">
 
 ```
-"Ship it fast. Iterate always. Build products that matter."
+"Ship it fast. Iterate always. Build products that matter.."
